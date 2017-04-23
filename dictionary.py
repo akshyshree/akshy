@@ -1,3 +1,4 @@
+
 a={'id':'01','name':'a','dept':'ec','yearofpass':'2016','conduct':'good'}
 b={'id':'02','name':'b','dept':'cs','yearofpass':'2016','conduct':'bad'}
 c={'id':'03','name':'c','dept':'ee','yearofpass':'2015','conduct':'good'}
